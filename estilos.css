@@ -1,0 +1,99 @@
+h1 {
+    font-size: 20px;
+    
+}
+
+body {
+    text-align: center;
+}
+
+.aqua {
+    background: #0080FF;
+}
+
+p {
+    text-align: center;
+}
+
+.electrico {
+    background: #FFFF00;
+}
+
+.fire {
+    background: #FF0000;
+}
+
+.plant {
+    background: #3ADF00;
+}
+
+.ice {
+    background: #01DFD7;
+}
+
+.steel {
+    background: #BDBDBD;
+}
+
+.water {
+    background: #0080FF;
+}
+
+.firecontrol {
+    background: #FF0000;
+}
+
+.carl li {
+    list-style: none;
+    padding: 5px;
+    border: 1px solid black;
+    display: inline-block; 
+}
+
+.earth {
+    background: #61380B;
+}
+
+.rock {
+    background: #B45F04;
+}
+
+.bug {
+    background: #21610B;
+}
+
+.fairy {
+    background: #FE2EF7;
+}
+
+.flying {
+    background: #BE81F7;
+}
+
+.poison {
+    background: #4C0B5F;
+}
+
+.psychic {
+    background: #FF0040;
+}
+
+.ghost {
+    background: #8000FF;
+}
+
+.daenerys {
+    background: #0431B4;
+}
+
+.sinister {
+    background: #424242;
+}
+
+.snow {
+    background: #F3F781;
+}
+
+.fight {
+    background: #8A0808;
+}
